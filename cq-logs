@@ -1,0 +1,19 @@
+
+Unable to find ".git-hook-config.ini" file in project`s home dir "/home/work/packages/django_project/livestock" 
+ So using HARD STOP for all this tools ['ze_sql_injection', 'pep8', 'ze_nolock_rowlock', 'pdb|DateTime', 'pyflakes']
+
+Code Quality Check: 
+==================
+
+---------- ze_sql_injection ----------
+['Pass']
+
+---------- pep8 ----------
+['Pass']
+
+---------- ze_nolock_rowlock ----------
+['Pass']
+
+---------- pyflakes ----------
+['Pass']
+==================
